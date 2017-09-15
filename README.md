@@ -1,8 +1,8 @@
-#GMAPTILETOOLS
+# GMAPTILETOOLS
 
 The library is created to facilitate easy creation, manipulation, visualization of maps offline. It has many additional empowering tools for freedom-seeking developers.
 
-##Features:
+## Features:
 
 1) Completely reverse-engineered Google's map-storage engine. With this library, you can seek google's own building blocks of its maps infrastructure, called the 'tiles'. This gives your more power over Google Maps Static Image API, as this has the ability to let you create your own maps precisely as how you need them. You can create them of any shapes, sizes or locations because you have the basic building blocks. For reference about google maps' terminology and organization: 'https://developers.google.com/maps/documentation/javascript/coordinates'.
 
@@ -18,19 +18,27 @@ The library is created to facilitate easy creation, manipulation, visualization 
 
 
 
-##Dependencies:
+## Dependencies:
 
 1)motionless
+
 2)mayavi-3d
+
 3)requests
+
 4)tvtk
+
 5)numpy
+
 6)os
+
 7)PIL
+
 8)cStringIO
 
 
-##Contact:
+
+## Contact:
 1) I know the documentation is non-existent and is underway to be published. In the mean-time, if you need any assistance or help, feel free to reach out at 
 manish97ravula at gmail dot com.
 
